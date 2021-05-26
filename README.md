@@ -1,2 +1,2 @@
 # COVID-19
-Code exploring pandemic 2020, coronavirus 
+Machine learning practice using the coronavirus dataset
