@@ -1,1 +1,2 @@
-# covid-19-analysis2020
+# COVID-19
+Code exploring pandemic 2020, coronavirus 
